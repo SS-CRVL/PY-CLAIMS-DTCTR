@@ -1,0 +1,26 @@
+app:
+  name: "Payment Claim Detector"
+  version: "0.1.0"
+
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  output_dir: "data/outputs"
+
+states:
+  - "NV"
+  - "CO"
+  - "AZ"
+  - "ID"
+  - "UT"
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+processing:
+  default_sheet_name: "Payment Register"
+  date_column: "check_date"
+  claim_column: "claim_number"
+  payment_id_column: "payment_id"
+  amount_column: "amount_issued"

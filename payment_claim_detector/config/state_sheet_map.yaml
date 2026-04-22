@@ -1,0 +1,32 @@
+# Mapping of state codes to preferred sheet names
+# The tool will try these patterns in order
+
+NV:
+  - "NV | Payments"
+  - "NV Payments"
+  - "Nevada"
+  - "NV"
+
+CO:
+  - "CO | Payments"
+  - "CO Payments"
+  - "Colorado"
+  - "CO"
+
+AZ:
+  - "AZ | Payments"
+  - "AZ Payments"
+  - "Arizona"
+  - "AZ"
+
+ID:
+  - "ID | Payments"
+  - "ID Payments"
+  - "Idaho"
+  - "ID"
+
+UT:
+  - "UT | Payments"
+  - "UT Payments"
+  - "Utah"
+  - "UT"

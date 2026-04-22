@@ -1,0 +1,88 @@
+jurisdiction:
+  - "Jurisdiction"
+  - "State"
+  - "Jur"
+  - "Jursidiction"
+
+insured:
+  - "Insured"
+  - "Employer"
+  - "Company"
+
+claim_number:
+  - "Claim Number"
+  - "Claim #"
+  - "ClaimNumber"
+  - "Claim No"
+  - "Claim No."
+  - "Claim Num"
+  - "Claim Num."
+  - "Claim ID"
+
+claimant_first_name:
+  - "Claimant First Name"
+  - "First Name"
+  - "FirstName"
+
+claimant_last_name:
+  - "Claimant Last Name"
+  - "Last Name"
+  - "LastName"
+
+full_name:
+  - "Full Name"
+  - "Claimant Name"
+  - "Name"
+
+date_of_loss:
+  - "Date of Loss"
+  - "DOI"
+  - "Loss Date"
+
+service_start:
+  - "Starting Service Date"
+  - "Starting DOS"
+  - "Service Start"
+
+service_end:
+  - "Ending Service Date"
+  - "Ending DOS"
+  - "Service End"
+
+amount_issued:
+  - "Amount Issued"
+  - "Amount"
+  - "Payment Amount"
+
+payment_description:
+  - "Payment Description"
+  - "Description"
+  - "Payment Desc"
+
+check_date:
+  - "Check Date"
+  - "Payment Date"
+  - "Date"
+
+payment_id:
+  - "Payment ID"
+  - "PaymentID"
+  - "Txn ID"
+
+examiner:
+  - "Examiner"
+  - "Adjuster"
+  - "Case Manager"
+
+supervisor:
+  - "Supervisor"
+  - "Manager"
+
+comments:
+  - "Comments"
+  - "Notes"
+  - "Remarks"
+
+claim_type:
+  - "Claim Type"
+  - "Type"
